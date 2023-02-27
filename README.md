@@ -17,5 +17,5 @@ Make preliminary bounding box prediction based on "frames' difference" data
 - [ ] ~~Visualization function~~
 
 ## report
-See the report in report folder
+See the report and ppt in doc folder
 
